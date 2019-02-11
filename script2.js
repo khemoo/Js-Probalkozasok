@@ -11,3 +11,11 @@ function IncrementaldATitlet() {
     whenButtonPressed++;
     document.title = whenButtonPressed;
 }
+
+
+
+
+
+
+aGomb.addEventListener2( "click", IncrementaldATitlet );
+

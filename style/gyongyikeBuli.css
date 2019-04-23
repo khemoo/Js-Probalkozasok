@@ -1,0 +1,61 @@
+
+
+
+
+@font-face {
+
+    font-family: "just-for-fun";
+    src: url( fonts/just-for-fun.regular.ttf );
+    font-style: normal;
+    font-weight: 300;
+
+}
+
+#paragrafus{
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "just-for-fun", serif;
+}
+
+
+
+
+
+
+#a-kep{
+
+    background-color: blueviolet;
+    display: block;
+    margin: auto;
+
+}
+
+
+
+
+
+#click-me-button{
+
+    width: 200px;
+    height: 80px;
+    display: block;
+    margin: auto;
+
+}
+
+
+
+
+#a-vezeto{
+
+    float: right;
+    font-weight: bold;
+}
+
+
+
+
+
+

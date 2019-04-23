@@ -1,0 +1,94 @@
+
+
+
+                        /*ACTUAL FILE RELATED STYLES STARTS HERE*/
+
+
+ul {
+    margin-top: 50px;
+}
+
+#input-id {
+    width: 500px;
+    height: 80px;
+    display:    block;
+    margin:     80px auto auto;
+    outline: none;
+}
+
+
+
+li {
+    display:    inline-block;
+    height:     50px;
+    width:      9%;
+    background-color: #8c9c81;
+}
+
+.green-active {
+    background-color:   green;
+    outline:            none;
+}
+
+.yellow-active {
+    background-color:   yellow;
+    outline:            none;
+}
+
+.red-active {
+    background-color:   red;
+    outline:            none;
+}
+
+
+
+
+
+    /*2 masodik slider*/
+#vw-slider {
+    display: block;
+    width: 0;
+    background-color: grey;
+    /*overflow: auto;*/
+    white-space: nowrap;
+}
+
+
+
+
+        /*TOGGLE ME DIV STYLE*/
+#toggle-me-div {
+    width:      400px;
+    height:     80px;
+    display:    block;
+    margin:     30px auto auto;
+    line-height: 80px;
+    text-align: center;
+}
+
+            /*RESET BUTTON*/
+#reset-button{
+    display: block;
+    margin: 60px auto auto;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    background-color: #8c9c81;
+
+}
+
+.reset-button {
+
+    display: block;
+    margin: auto;
+}
+
+
+        /*INJECTED HTML/LI ELEMENTS STYLE*/
+
+.multiply-li-item {
+    margin: 3px;
+
+
+}

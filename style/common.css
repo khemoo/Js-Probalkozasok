@@ -1,0 +1,24 @@
+
+
+
+
+/*DEPENDENCY FOR "GLOBAL" NAVBAR STYLE*/
+
+#navbar-container-id{
+    height: 200px;
+}
+
+.navbar-a-button {
+    width: 120px;
+    height: 80px;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 80px;
+}
+
+
+
+
+
+

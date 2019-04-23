@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    LOBBY START HERE    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+
+
+
+
+#lobbyContainer{
+    width:   90%;
+    height:  1180px;
+    display: block;
+    margin:  auto;
+    overflow: auto;
+    background-color: blueviolet;
+    border:  0;
+    padding: 0;
+}
+
+
+.labelText1{
+    text-align: center;
+}
+
+.labelText1:first-child{
+    margin-top: 250px;
+}
+
+
+.playerInputs{
+    display: block;
+    margin:  auto;
+    width: 350px;
+    height: 60px;
+}
+
+
+#startGameButton{
+    width:   250px;
+    height:  80px;
+    display: block;
+    margin:  90px auto auto;
+}

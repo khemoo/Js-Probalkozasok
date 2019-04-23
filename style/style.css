@@ -1,0 +1,103 @@
+.gomb-class {
+    width: 160px;
+    height: 50px;
+    background-color: white;
+    outline: none;
+    display: block;
+    margin:  40px auto 20px auto;
+}
+
+#e-mail {
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+#password {
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+}
+
+#sign-up {
+    text-align: center;
+    cursor: pointer;
+}
+
+#login-container-id {
+    width: 450px;
+    height: 270px;
+    background-color: aqua;
+    margin: 180px auto 20px auto;
+    padding-top: 20px;
+}
+
+#sign-up-container-id {
+    width: 450px;
+    height: 370px;
+    background-color: aqua;
+    margin: 180px auto 20px auto;
+    padding-top: 20px;
+    display: none;
+}
+
+#sign-up-e-mail {
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+#sign-up-password {
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+}
+
+#sign-up-re-password {
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+}
+
+#sign-up-last-name-id {
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+}
+
+#sign-up-gomb-id {
+    width: 160px;
+    height: 50px;
+    background-color: white;
+    outline: none;
+    display: block;
+    margin:  40px auto 20px auto;
+}
+
+#back-to-login {
+    text-align: center;
+    cursor: pointer;
+}
+
+html {
+    background-color: #445f80;
+}
+
+#navbar-container-id{
+    height: 200px;
+}
+
+.navbar-a-button {
+    width: 120px;
+    height: 80px;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 80px;
+}

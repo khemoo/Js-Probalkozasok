@@ -1,0 +1,91 @@
+
+
+
+
+                            /*ACTUAL FILE RELATED STYLES STARTS HERE*/
+
+#slider-container{
+    width: 1050px;
+    height: 350px;
+    margin: 300px auto auto;
+    background-color: #445f80;
+    position: relative;
+    overflow: auto;
+}
+
+
+#range-slider{
+    width: 750px;
+    display: block;
+    margin: 120px auto 0 auto;
+    position: relative;
+}
+
+
+#slider-status-text{
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 120px;
+}
+
+
+#slider-container{
+    margin-top: 100px;
+}
+
+
+
+
+
+                                /*SLIDER_STATUS_TEXT*/
+.grey-text {
+    color: grey;
+}
+
+.green-text {
+    color: green;
+}
+
+.yellow-text {
+    color: yellow;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.red-text {
+    color: red;
+}
+
+
+
+
+
+
+
+
+                            /*INPUT THUMB EDIT TENTATIVA*/
+
+#range-slider::-webkit-slider-thumb {
+    /*-webkit-appearance: none; !* Override default look *!*/
+    width: 250px; /* Set a specific slider handle width */
+    height: 250px; /* Slider handle height */
+    display: inline-block;
+    border-radius: 50%;
+    background: #4CAF50; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+    color: #4CAF50;
+}
+
+#range-slider::-moz-range-thumb {
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: #4CAF50; /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+
+/*className*/

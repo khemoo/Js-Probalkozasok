@@ -1,0 +1,113 @@
+
+
+
+
+body{
+    margin: 0;
+}
+
+
+
+            /*INJECTED FIRST-GEN BUTTON*/
+
+#generated-container-div {
+    display: block;
+    width: 80vw;
+    height: 100vh;
+    background-color: #445f80;
+    margin: auto;
+    overflow: auto;
+}
+
+#generated-html-button {
+    width: 250px;
+    height: 80px;
+    display: block;
+    margin: 450px auto auto;
+    position: relative;
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+}
+
+
+
+            /*FINAL INJECTED ELEMENTS CLASS*/
+
+#generated-li-container-div{
+    width: 100%;
+    height: 100px;
+    display: block;
+    margin: 400px auto auto;
+    background-color: #4CAF50;
+}
+
+
+
+
+
+
+
+
+
+
+            /*BUTTONS RESET / ADD TO LI   */
+
+#generated-buttons-container-div{
+    width: 100%;
+    height: 120px;
+    display: block;
+    background-color: yellow;
+    margin: 30px auto auto;
+}
+
+
+
+
+#generated-html-button-reset{
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    margin: 20px 70px auto 39%;
+}
+
+
+
+#generated-html-button-add{
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    margin: 20px auto auto 0;
+}
+
+
+#generated-li-container-ul{
+
+
+}
+
+
+
+.li-element-with-value{
+    display:    inline-block;
+    height:     50px;
+    width:      9%;
+    background-color: #9c4b37;
+    margin: 20px 2px 0 2px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+
+
+
+
+#generated-input-for-numbers{
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin: 30px auto auto;
+
+
+}

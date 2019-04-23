@@ -1,0 +1,31 @@
+
+
+                    /*ACTUAL FILE RELATED STYLES STARTS HERE*/
+
+
+.sign-up-form-container {
+    margin-top: 180px;
+}
+
+
+input {
+    width: 200px;
+    height: 50px;
+    margin: 20px auto;
+    display: block;
+    line-height: 50px;
+
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    margin: 20px auto;
+    display: block;
+}
+
+span {
+    text-align: center;
+    display: block;
+}
+

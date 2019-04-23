@@ -1,0 +1,24 @@
+
+
+
+
+
+
+                                /*ACTUAL FILE RELATED STYLES STARTS HERE*/
+
+#todo-list-container{
+    width: 80%;
+    height:600px;
+    margin: 200px auto 0 auto;
+    background-color: #4CAF50;
+}
+
+
+#todo-input{
+    height: 35px;
+    width: 700px;
+    display: block;
+    margin: auto;
+    text-indent: 10px;
+    outline: none;
+}

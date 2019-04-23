@@ -1,0 +1,112 @@
+
+
+
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    LOBBY START HERE    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+
+
+
+
+#lobbyContainer{
+    width:   90%;
+    height:  1180px;
+    display: block;
+    margin:  auto;
+    overflow: auto;
+    background-color: blueviolet;
+    border:  0;
+    padding: 0;
+}
+
+
+.labelText1{
+    text-align: center;
+}
+
+.labelText1:first-child{
+    margin-top: 250px;
+}
+
+
+.playerInputs{
+    display: block;
+    margin:  auto;
+    width: 350px;
+    height: 60px;
+}
+
+
+#startGameButton{
+    width:   250px;
+    height:  80px;
+    display: block;
+    margin:  90px auto auto;
+}
+
+
+
+
+
+/*    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   IN GAME STARTS HERE   <<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+
+
+
+
+#gameContainer{
+    width:   900px;
+    height:  900px;
+    display: none;
+    margin:  50px auto auto;
+    background-color: #445f80;
+    padding: 0;
+}
+
+
+
+
+.row-style{
+    width:   900px;
+    height:  300px;
+    background-color: #445f80;
+    display: block;
+    margin:  0 0 -1px 0;
+    padding: 0;
+    border:  0;
+}
+
+
+
+.rect-style{
+    width:   296px;
+    height:  296px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin:  3px 3px 0 0;
+    padding: 0;
+    cursor:  pointer;
+}
+
+
+
+.rect-style:first-child{
+    margin-left: 3px;
+}
+
+
+
+
+
+.X-style{
+    background-image: url(images/X-image.jpg);
+    background-size:  cover
+}
+
+
+.O-style{
+    background-image: url(images/O-image.png);
+    background-size:  cover
+}
